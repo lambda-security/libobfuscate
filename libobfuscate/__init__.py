@@ -1,0 +1,2 @@
+from .libobfuscate import obfuscate
+
